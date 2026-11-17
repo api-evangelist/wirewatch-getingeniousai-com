@@ -1,0 +1,29 @@
+aid: wirewatch-getingeniousai-com
+name: WireWatch (Ingenious AI)
+description: 'WireWatch (Ingenious AI) is a company surfaced via the API Evangelist harvest backlog (source:
+  new-submission) and added to the network as a stub for full-pipeline profiling.'
+url: https://artifacts.apis.io/wirewatch-getingeniousai-com/apis.yml
+x-type: company
+x-source: harvest:new-submission
+x-tier: stub
+x-tier-reason: harvest
+specificationVersion: '0.20'
+created: '2026-11-17'
+modified: '2026-11-17'
+tags:
+- Company
+apis: []
+maintainers:
+- FN: Kin Lane
+  email: kin@apievangelist.com
+- FN: APIs.json
+  email: info@apis.io
+common:
+- type: Website
+  url: https://wirewatch.getingeniousai.com
+- type: Documentation
+  url: https://wirewatch.getingeniousai.com/openapi.json
+x-submission-notes: 'Ingenious AI API #19 of 34 submitted 2026-11-16 ([redacted], reply to [redacted]).
+  Wire-instruction verification: holds, callbacks, dual approval. Free tier included. Profile from own
+  host; ignore RapidAPI listing.'
+x-submission-probe: openapi.json 200; invented path 404
