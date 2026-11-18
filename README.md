@@ -64,5 +64,107 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-WireWatch (Ingenious AI) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://wirewatch.getingeniousai.com
+WireWatch, built by Ingenious AI, provides real‑time monitoring and deterministic fraud‑prevention for wire transfers. It enforces a four‑step ceremony—hold, verify, dual‑approve, release—to stop fraudulent payments before they move. The platform offers free and paid tiers, detailed audit logs, and integrates with existing financial workflows to protect businesses from wire fraud.
+
+**Areas:** FinTech · Payments · Fraud Prevention · Real-time Monitoring · API
+
+## WireWatch (Ingenious AI) on APIs.io
+
+Everything profiled for WireWatch (Ingenious AI) is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/wirewatch-getingeniousai-com/](https://apis.io/providers/wirewatch-getingeniousai-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (5)
+
+- [WireWatch API](https://apis.io/apis/wirewatch-getingeniousai-com/wirewatch-api/) — WireWatch core API providing health, assessments and usage endpoints.
+- [ADMT API](https://apis.io/apis/wirewatch-getingeniousai-com/admt-api/) — Automated Decision-Making Notice Kit API for identity and usage.
+- [AgentBlock API](https://apis.io/apis/wirewatch-getingeniousai-com/agentblock-api/) — AgentBlock service API.
+- [AgentGate API](https://apis.io/apis/wirewatch-getingeniousai-com/agentgate-api/) — AgentGate service API.
+- [WireWatch Api API](https://apis.io/apis/wirewatch-getingeniousai-com/wirewatch-api-api/) — WireWatch Api API: 3 operations.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [WireWatch (Ingenious AI) API Rules](https://apis.io/rules/wirewatch-getingeniousai-com/wirewatch-getingeniousai-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [WireWatch (Ingenious AI) Domain Security](https://apis.io/security/wirewatch-getingeniousai-com/wirewatch-getingeniousai-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [WireWatch (Ingenious AI) Plans Pricing](https://apis.io/plans/wirewatch-getingeniousai-com/wirewatch-getingeniousai-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://wirewatch.getingeniousai.com)
+- [Documentation](https://wirewatch.getingeniousai.com/openapi.json)
+- [Getting started](https://wirewatch.getingeniousai.com/guides/vendor-onboarding-verification-checklist)
+- [Pricing](https://wirewatch.getingeniousai.com/pricing)
+- [Terms of service](https://wirewatch.getingeniousai.com/terms)
+- [Privacy policy](https://wirewatch.getingeniousai.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 42.6** — developing · rubric 0.27.0 · scored 2026-11-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 31.2 |
+| Contract governance | 65.5 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 27.9 |
+| Access clarity | 73.2 |
+
+**Agent readiness 21.0** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 17.0** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/wirewatch-getingeniousai-com/](https://apis.io/providers/wirewatch-getingeniousai-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for WireWatch (Ingenious AI): the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/wirewatch-getingeniousai-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
